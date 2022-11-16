@@ -38,3 +38,5 @@
 
 * git branch - выводит на экран список веток
 * git branch_name - создание новой ветки
+
+* git branch -d <name> - удаление ветки
