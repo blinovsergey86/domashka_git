@@ -42,3 +42,4 @@
 
 
 * git merge branch_name - сливает ветку branch_name с текущей веткой
+* git checkout -b branch_name - создается ветка с переходом н нее
