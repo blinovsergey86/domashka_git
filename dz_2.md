@@ -37,9 +37,9 @@
 ## Команды, используемые в рботе с ветками в git
 
 * git branch - выводит на экран список веток
-
+* git branch_name - создание новой ветки
 * git checkout branch_name - переход с одной ветки на другую 
-
-
+* git branch -d <name> - удаление ветки
+* git log -graph - выводит список коммитов в виде графа/дерева
 * git merge branch_name - сливает ветку branch_name с текущей веткой
 * git checkout -b branch_name - создается ветка с переходом н нее
