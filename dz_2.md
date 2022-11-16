@@ -39,3 +39,6 @@
 * git branch - выводит на экран список веток
 
 * git checkout branch_name - переход с одной ветки на другую 
+
+
+* git merge branch_name - сливает ветку branch_name с текущей веткой
